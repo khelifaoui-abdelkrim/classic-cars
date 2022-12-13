@@ -107,7 +107,7 @@ section.change{
 /* section1  */
 .section1{
   flex-direction: column;
-  background: url(/images/bg-section1.jpg) center no-repeat;
+  background: url(images/bg-section1.jpg) center no-repeat;
 }
 .section1 img{
   width: 70%;
@@ -250,7 +250,7 @@ section.change{
 
 /* section5  */
 .section5{
-  background:linear-gradient(rgb(0, 0, 0,.4),rgb(0, 0, 0,.9)), url(/images/bg-section5.jpg) center no-repeat;
+  background:linear-gradient(rgb(0, 0, 0,.4),rgb(0, 0, 0,.9)), url(images/bg-section5.jpg) center no-repeat;
   flex-direction: column;
   position: relative;
 }
